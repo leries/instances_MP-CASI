@@ -9,6 +9,6 @@ Please find attached the benchmark instances used in our paper "Optimizing assor
 * Column 5: Unit cost
 * Column 6: Salvage value
 * Column 7: Stockout cost
-* Column 9: Product with
+* Column 9: Product width
 * Column 12: Max. number of facings
 * Column 14: Stock per facing
